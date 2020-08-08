@@ -1,6 +1,6 @@
 # Hi there, I'm Sagar 👋
 
-### I'm a web developer :sunglasses:. ![Web Developer](https://github.com/seeprogramming/seeprogramming/blob/master/My%20Post.png)
+### I know how to React:sunglasses: JS. ![Web Developer](https://github.com/seeprogramming/seeprogramming/blob/master/My%20Post.png)
 
 
 <!--
