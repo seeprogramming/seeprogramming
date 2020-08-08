@@ -1,6 +1,6 @@
 # Hi there, I'm Sagar 👋
 
-### I'm a web developer :sunglasses:. | Hello
+### I'm a web developer :sunglasses:. ![Web Developer](https://github.com/seeprogramming/seeprogramming/blob/master/undraw_developer_activity_bv83.svg)
 <!--
 **seeprogramming/seeprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
