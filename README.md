@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there, I'm Sagar 👋
 
-# I'm a webdeveloper.
+### I'm a web developer.
 <!--
 **seeprogramming/seeprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
