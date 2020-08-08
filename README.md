@@ -11,4 +11,8 @@
 [specsworld](https://specsworld-beta.firebaseapp.com/)
  -Developed using ReactJS
 
+[Digitaleseva](https://digitaleseva.in/)
+ -Developed using ReactJS, NextJS
+ 
+
 
