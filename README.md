@@ -1,6 +1,6 @@
-# Hi there, I'm Sagar 👋
+# Hi there, I'm Sagar 👋 I know how to React:sunglasses: JS.
 
-### I know how to React:sunglasses: JS. ![Web Developer](https://github.com/seeprogramming/seeprogramming/blob/master/My%20Post.png)
+![Web Developer](https://github.com/seeprogramming/seeprogramming/blob/master/My%20Post.png)
 
 
 <!--
