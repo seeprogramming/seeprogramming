@@ -8,8 +8,9 @@
 [My Portfolio](https://sagarshelke-77.firebaseapp.com/)
 
 ##### Projects
-- [specsworld](https://specsworld-beta.firebaseapp.com/) -Developed using ReactJS
-- [Digitaleseva](https://digitaleseva.in/)-Developed using ReactJS, NextJS
+- [Suncraft Ads](https://suncraftads.com/) - Developed using NextJS, ReactJS, Redux
+- [Specsworld](https://specsworld-beta.firebaseapp.com/) - Developed using ReactJS
+- [Digital-E-Seva](https://digitaleseva.in/) -Developed using ReactJS, NextJS
  
 
 
