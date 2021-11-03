@@ -10,6 +10,7 @@
 ##### Projects
 - [Suncraft Ads](https://suncraftads.com/) - Developed using NextJS, ReactJS, Redux
 - [Specsworld](https://specsworld-beta.firebaseapp.com/) - Developed using ReactJS
+- [Specsworld New](https://specsworld-r1lxem2er.vercel.app/) - Developed using ReactJS
 - [Digital-E-Seva](https://digitaleseva.in/) -Developed using ReactJS, NextJS
  
 
