@@ -8,6 +8,7 @@
 [My Portfolio](https://sagarshelke-77.firebaseapp.com/)
 
 ##### Projects
+- [Recordsly](https://recordsly-client.vercel.app/) - Developed using ReactJS, NodeJS,PostgresQl,Prisma
 - [specmatter](https://specmatter.com/) - Developed using NextJS,NodeJS,Express, MongoDB
 - [Suncraft Ads](https://suncraftads.com/) - Developed using NextJS, ReactJS, Redux
 - [Specsworld](https://specsworld-beta.firebaseapp.com/) - Developed using ReactJS
