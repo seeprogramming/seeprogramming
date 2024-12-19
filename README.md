@@ -8,8 +8,8 @@
 [My Portfolio](https://sagarshelke-77.firebaseapp.com/)
 
 ##### Currently learning 
-- [BankSphere](https://github.com/seeprogramming/banksphere)
-
+- [Exploring Monorepo and Architecture](https://github.com/seeprogramming/banksphere) - React, Node, Express, Prisma, PostgreSQL
+  
 ##### Projects
 - [Recordsly](https://recordsly-client.vercel.app/) - Developed using ReactJS, NodeJS,PostgresQl,Prisma
 - [specmatter](https://specmatter.com/) - Developed using NextJS,NodeJS,Express, MongoDB
